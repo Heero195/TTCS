@@ -1,0 +1,24 @@
+2026-05-09  9:23:07 0 [Note] Reading of all Master_info entries succeeded
+2026-05-09  9:23:07 0 [Note] Added new Master_info '' to hash table
+2026-05-09  9:23:07 0 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.4.32-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2026-05-09  9:29:42 11 [Warning] Aborted connection 11 to db: 'new_ui' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2026-05-09  9:29:42 8 [Warning] Aborted connection 8 to db: 'new_ui' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2026-05-09  9:29:42 9 [Warning] Aborted connection 9 to db: 'new_ui' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2026-05-09  9:29:42 16 [Warning] Aborted connection 16 to db: 'new_ui' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2026-05-09  9:29:42 12 [Warning] Aborted connection 12 to db: 'new_ui' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2026-05-09  9:29:42 17 [Warning] Aborted connection 17 to db: 'new_ui' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2026-05-09  9:29:42 15 [Warning] Aborted connection 15 to db: 'new_ui' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2026-05-09  9:29:42 14 [Warning] Aborted connection 14 to db: 'new_ui' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2026-05-09  9:29:42 13 [Warning] Aborted connection 13 to db: 'new_ui' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2026-05-09  9:29:42 10 [Warning] Aborted connection 10 to db: 'new_ui' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2026-05-09  9:36:43 18 [Warning] Aborted connection 18 to db: 'new_ui' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2026-05-09  9:36:43 19 [Warning] Aborted connection 19 to db: 'new_ui' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2026-05-09  9:36:43 23 [Warning] Aborted connection 23 to db: 'new_ui' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2026-05-09  9:36:43 22 [Warning] Aborted connection 22 to db: 'new_ui' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2026-05-09  9:36:43 21 [Warning] Aborted connection 21 to db: 'new_ui' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2026-05-09  9:36:43 20 [Warning] Aborted connection 20 to db: 'new_ui' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2026-05-09  9:36:43 25 [Warning] Aborted connection 25 to db: 'new_ui' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2026-05-09  9:36:43 27 [Warning] Aborted connection 27 to db: 'new_ui' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2026-05-09  9:36:43 24 [Warning] Aborted connection 24 to db: 'new_ui' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2026-05-09  9:36:43 26 [Warning] Aborted connection 26 to db: 'new_ui' user: 'root' host: 'localhost' (Got an error reading communication packets)
