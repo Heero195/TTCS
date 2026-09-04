@@ -102,4 +102,4 @@ Cơ sở dữ liệu đã chứa sẵn các tài khoản mẫu với mật khẩ
 | 2 | `dev@test.com` | **Developer** (Lập trình) | Xem các bug được phân công, cập nhật trạng thái sửa lỗi (Open -> In Progress -> Resolved), viết comment. |
 | 3 | `tester@test.com` | **Tester** (Kiểm thử) | Phát hiện lỗi và tạo bug mới, kiểm tra kết quả sửa lỗi của Developer để đóng lỗi (Closed) hoặc mở lại lỗi (Re-open). |
 
-*Lưu ý: Bạn cũng có thể đăng ký tài khoản mới trực tiếp tại trang Đăng ký (`sign-up.html`), sau đó đăng nhập và bắt đầu tạo Workspace của riêng mình.*
+*Lưu ý: Người dùng cũng có thể đăng ký tài khoản mới trực tiếp tại trang Đăng ký (`sign-up.html`), sau đó đăng nhập và bắt đầu tạo Workspace của riêng mình.*
